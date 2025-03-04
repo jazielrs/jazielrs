@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Jaziel 👋</h1>
 </div>
-![Backend Diagram](https://raw.githubusercontent.com/jazielrs/Pagina_compra/master/Banner_Github.png)" 
+<img src="https://raw.githubusercontent.com/jazielrs/Pagina_compra/master/Banner_Github.png" alt="Backend Diagram">
 
 ## Sobre mi
 
