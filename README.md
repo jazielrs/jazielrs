@@ -8,7 +8,7 @@
 [![Static Badge](https://img.shields.io/badge/postman-%23FF6C37?logo=postman&logoColor=black)](https://www.postman.com/)
 [![Static Badge](https://img.shields.io/badge/githubactions-%23723185?logo=githubactions&logoColor=black)](https://github.com/features/actions)
 
-## About me
+### 📝 About me
 <div style="text-align: justify;">
 I am a developer always looking to improve and expand my knowledge in the field of technology. 
 I am passionate about learning new tools and learning both frontend and backend. 
