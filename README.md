@@ -17,3 +17,11 @@ Programming excites me because it allows me to have a positive impact on people,
 and I always look for every project I work on to learn and have fun in the process.
 </div>
 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/jazielrs">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jazielrs&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jazielrs&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
