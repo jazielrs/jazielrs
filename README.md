@@ -3,11 +3,10 @@
 </div>
 <img src="https://raw.githubusercontent.com/jazielrs/Pagina_compra/master/Banner_Github.png" alt="Backend Diagram">
 
-![NPM Version](https://img.shields.io/npm/v/react?color=green)
-![Static Badge](https://img.shields.io/badge/intellijidea-%23000000?logo=intellijidea)
-![Static Badge](https://img.shields.io/badge/postman-%23FF6C37?logo=postman&logoColor=black)
-[![Static Badge](https://img.shields.io/badge/githubactions-%23723185?logo=githubactions&logoColor=black)](https://docs.npmjs.com/cli/v8/commands/npm-version)
-
+[![NPM Version](https://img.shields.io/npm/v/react?color=green)](https://docs.npmjs.com/cli/v8/commands/npm-version)
+[![Static Badge](https://img.shields.io/badge/intellijidea-%23000000?logo=intellijidea)](https://www.jetbrains.com/idea/)
+[![Static Badge](https://img.shields.io/badge/postman-%23FF6C37?logo=postman&logoColor=black)](https://www.postman.com/)
+[![Static Badge](https://img.shields.io/badge/githubactions-%23723185?logo=githubactions&logoColor=black)](https://github.com/features/actions)
 
 ## About me
 <div style="text-align: justify;">
