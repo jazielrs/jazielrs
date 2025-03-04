@@ -3,6 +3,12 @@
 </div>
 <img src="https://raw.githubusercontent.com/jazielrs/Pagina_compra/master/Banner_Github.png" alt="Backend Diagram">
 
+![NPM Version](https://img.shields.io/npm/v/react?color=green)
+![Static Badge](https://img.shields.io/badge/intellijidea-%23000000?logo=intellijidea)
+![Static Badge](https://img.shields.io/badge/postman-%23FF6C37?logo=postman&logoColor=black)
+![Static Badge](https://img.shields.io/badge/githubactions-%23723185?logo=githubactions&logoColor=black)
+
+
 ## About me
 <div style="text-align: justify;">
 I am a developer always looking to improve and expand my knowledge in the field of technology. 
@@ -11,3 +17,4 @@ Since I was a kid, I have always had a penchant for creativity and the idea of h
 Programming excites me because it allows me to have a positive impact on people, 
 and I always look for every project I work on to learn and have fun in the process.
 </div>
+
