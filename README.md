@@ -1,12 +1,13 @@
 <div align="center">
-<h1 align="center">Hola, soy Jaziel 👋</h1>
+<h1 align="center">Hello, im Jaziel 👋</h1>
 </div>
 <img src="https://raw.githubusercontent.com/jazielrs/Pagina_compra/master/Banner_Github.png" alt="Backend Diagram">
 
-## Sobre mi
-
-Soy un desarrollador siempre en busca de mejorar y expandir mis conocimientos en el campo de la tecnología. 
-Me apasiona conocer nuevas herramientas y aprender tanto de frontend como de backend. 
-Desde niño, siempre he tenido una gran inclinación por la creatividad y la idea de ayudar a otros a crear soluciones. 
-La programación me emociona porque me permite tener un impacto positivo en las personas, 
-y siempre busco que cada proyecto en el que trabaje sea una oportunidad para aprender y divertirme en el proceso.
+## About me
+<div style="text-align: justify;">
+I am a developer always looking to improve and expand my knowledge in the field of technology. 
+I am passionate about learning new tools and learning both frontend and backend. 
+Since I was a kid, I have always had a penchant for creativity and the idea of helping others create solutions. 
+Programming excites me because it allows me to have a positive impact on people, 
+and I always look for every project I work on to learn and have fun in the process.
+</div>
