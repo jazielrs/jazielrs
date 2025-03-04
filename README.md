@@ -6,7 +6,7 @@
 ![NPM Version](https://img.shields.io/npm/v/react?color=green)
 ![Static Badge](https://img.shields.io/badge/intellijidea-%23000000?logo=intellijidea)
 ![Static Badge](https://img.shields.io/badge/postman-%23FF6C37?logo=postman&logoColor=black)
-![Static Badge](https://img.shields.io/badge/githubactions-%23723185?logo=githubactions&logoColor=black&link=https%3A%2F%2Fdocs.npmjs.com%2Fcli%2Fv8%2Fcommands%2Fnpm-version)
+[![Static Badge](https://img.shields.io/badge/githubactions-%23723185?logo=githubactions&logoColor=black)](https://docs.npmjs.com/cli/v8/commands/npm-version)
 
 
 ## About me
