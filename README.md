@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hello, im Jaziel 👋</h1>
 </div>
-<img src="https://raw.githubusercontent.com/jazielrs/Pagina_compra/master/Banner_Github.png" alt="Backend Diagram">
+
 
 [![NPM Version](https://img.shields.io/npm/v/react?color=green)](https://docs.npmjs.com/cli/v8/commands/npm-version)
 [![Static Badge](https://img.shields.io/badge/intellijidea-%23000000?logo=intellijidea)](https://www.jetbrains.com/idea/)
